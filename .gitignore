@@ -1,0 +1,8 @@
+dataset/validation/*
+dataset_preparation/batch1/images/*
+dataset_preparation/batch1/masks/*
+dataset_preparation/batch2/*
+dataset_preparation/gatunda/*
+dataset_preparation/images/*
+dataset_preparation/videos/*
+.ipynb_checkpoints/*
